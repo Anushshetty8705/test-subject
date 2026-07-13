@@ -1,0 +1,22 @@
+*{
+    margin:0;
+}
+
+h1{
+    color:red;
+}
+p{
+    color:red;
+}
+.nav{
+    width: 100dvw;
+}
+div{
+    background-color: red;
+}
+footer{
+    position:fixed;
+    bottom:0;
+    background-color: blue;
+    height:10vh;
+}
